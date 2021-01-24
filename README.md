@@ -1,1 +1,1 @@
-# Schedule-Planner
+# Bootcamp-Scheduler
